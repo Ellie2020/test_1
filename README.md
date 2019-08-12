@@ -7,3 +7,4 @@ https://i2.wp.com/itsfoss.com/wp-content/uploads/2014/03/Install_Ubuntu_Windows_
 https://anaconda.org/anaconda/scikit-learn  
 https://anaconda.org/conda-forge/matplotlib  
 https://anaconda.org/anaconda/simplejson
+13145_venv
