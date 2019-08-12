@@ -10,3 +10,4 @@ https://anaconda.org/anaconda/simplejson
 13145_venv  
 https://cloud.google.com/bigquery/docs/reference/libraries  
 https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax#full-outer-join
+https://cloud.google.com/apis/docs/client-libraries-explained
