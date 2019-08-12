@@ -8,4 +8,5 @@ https://anaconda.org/anaconda/scikit-learn
 https://anaconda.org/conda-forge/matplotlib  
 https://anaconda.org/anaconda/simplejson  
 13145_venv  
-https://cloud.google.com/bigquery/docs/reference/libraries
+https://cloud.google.com/bigquery/docs/reference/libraries  
+https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax#full-outer-join
