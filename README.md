@@ -12,3 +12,4 @@ https://cloud.google.com/bigquery/docs/reference/libraries
 https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax#full-outer-join
 https://cloud.google.com/apis/docs/client-libraries-explained  
 https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236
+git commit locally, git pull (from github master), git push
